@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nothing Analytical</title>
+    <link>https://na-betatesting.web.app/posts/</link>
+    <description>Recent content in Posts on Nothing Analytical</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 15:30:29 -0500</lastBuildDate><atom:link href="https://na-betatesting.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planeacion</title>
+      <link>https://na-betatesting.web.app/posts/planeacion/</link>
+      <pubDate>Sun, 23 May 2021 15:30:29 -0500</pubDate>
+      
+      <guid>https://na-betatesting.web.app/posts/planeacion/</guid>
+      <description>Introducción Contexto El proyecto VIDA llevó a cabo las tutorías de los estudiantes de manera virtual pues la experiencia del curso de Práctica Social tuvo lugar durante la pandemia impidiendo que nos reuniéramos como se hacía en tiempos no extraordinarios como estos. El proyecto consiste en ofrecer tutorías de habilidades para la toma de decisiones a estudiantes de distintos colegios Colsubsidio como Ciudadela, Chicalá y Norte. Las sesiones del curso permiten dar este espacio donde dos estudiantes como David y yo preparamos un espacio virtual de encuentro para compartir distintas herramientas y compartir experiencias que susciten la reflexión.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://na-betatesting.web.app/posts/my-first-post/</link>
+      <pubDate>Sun, 23 May 2021 00:17:40 -0500</pubDate>
+      
+      <guid>https://na-betatesting.web.app/posts/my-first-post/</guid>
+      <description>Un nuevo anochecer Today is the day I decide to go minimalistic on my N_A blog. I&amp;rsquo;ve tried way too many things, but my knowledge AND time disposition is incredibly limited. Thus, I shall continue with the blog using the simplest way (and cheapest way) to maintain a website: hugo. Plus, its open source and the site can be fully maintained (I think) using the terminal, which is fucking amzing.</description>
+    </item>
+    
+  </channel>
+</rss>
